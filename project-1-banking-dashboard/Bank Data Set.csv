@@ -1,0 +1,61 @@
+TransactionID,CustomerID,Date,Amount,Type,Category,Channel,Status
+1001,C001,1/3/2024,120.5,Debit,Groceries,Online,Completed
+1002,C002,1/4/2024,850,Credit,Salary,Direct Deposit,Completed
+1003,C001,1/5/2024,45.2,Debit,Dining,Card Swipe,Completed
+1004,C003,1/6/2024,300,Debit,Utilities,Online,Pending
+1005,C004,1/7/2024,1500,Debit,Rent,ACH,Completed
+1006,C002,1/8/2024,75,Debit,Fuel,Card Swipe,Completed
+1007,C003,1/9/2024,200,Credit,Refund,Online,Completed
+1008,C005,1/10/2024,600,Debit,Groceries,Online,Completed
+1009,C001,1/11/2024,500,Debit,Shopping,Card Swipe,Failed
+1010,C004,1/12/2024,95,Debit,Dining,Online,Completed
+1011,C002,2/3/2024,250,Debit,Groceries,Online,Completed
+1012,C003,2/5/2024,780,Debit,Shopping,Card Swipe,Completed
+1013,C001,2/7/2024,120,Debit,Fuel,Card Swipe,Completed
+1014,C005,2/10/2024,500,Debit,Utilities,Online,Completed
+1015,C004,2/12/2024,1500,Debit,Rent,ACH,Completed
+1016,C003,2/15/2024,200,Credit,Refund,Online,Completed
+1017,C002,2/18/2024,90,Debit,Dining,Card Swipe,Completed
+1018,C001,2/20/2024,400,Debit,Shopping,Online,Failed
+1019,C005,2/22/2024,650,Debit,Groceries,Online,Completed
+1020,C004,2/25/2024,75,Debit,Fuel,Card Swipe,Completed
+1021,C001,3/3/2024,300,Debit,Groceries,Online,Completed
+1022,C002,3/5/2024,1200,Credit,Bonus,Direct Deposit,Completed
+1023,C003,3/7/2024,60,Debit,Dining,Card Swipe,Completed
+1024,C004,3/10/2024,1500,Debit,Rent,ACH,Completed
+1025,C005,3/12/2024,500,Debit,Shopping,Online,Completed
+1026,C001,3/15/2024,200,Debit,Fuel,Card Swipe,Completed
+1027,C003,3/18/2024,300,Debit,Utilities,Online,Pending
+1028,C002,3/20/2024,850,Debit,Shopping,Card Swipe,Completed
+1029,C004,3/22/2024,95,Debit,Dining,Online,Completed
+1030,C005,3/25/2024,700,Debit,Groceries,Online,Completed
+1031,C001,4/2/2024,250,Debit,Groceries,Online,Completed
+1032,C002,4/4/2024,900,Credit,Salary,Direct Deposit,Completed
+1033,C003,4/6/2024,80,Debit,Dining,Card Swipe,Completed
+1034,C004,4/8/2024,1500,Debit,Rent,ACH,Completed
+1035,C005,4/10/2024,600,Debit,Shopping,Online,Completed
+1036,C001,4/12/2024,300,Debit,Fuel,Card Swipe,Completed
+1037,C003,4/15/2024,200,Credit,Refund,Online,Completed
+1038,C002,4/18/2024,450,Debit,Utilities,Online,Completed
+1039,C004,4/20/2024,95,Debit,Dining,Online,Completed
+1040,C005,4/22/2024,900,Debit,Groceries,Online,Completed
+1041,C001,5/3/2024,260,Debit,Groceries,Online,Completed
+1042,C002,5/5/2024,850,Credit,Salary,Direct Deposit,Completed
+1043,C003,5/7/2024,55,Debit,Dining,Card Swipe,Completed
+1044,C004,5/9/2024,1500,Debit,Rent,ACH,Completed
+1045,C005,5/11/2024,650,Debit,Shopping,Online,Completed
+1046,C001,5/13/2024,220,Debit,Fuel,Card Swipe,Completed
+1047,C003,5/15/2024,200,Credit,Refund,Online,Completed
+1048,C002,5/17/2024,500,Debit,Utilities,Online,Completed
+1049,C004,5/19/2024,95,Debit,Dining,Online,Completed
+1050,C005,5/21/2024,750,Debit,Groceries,Online,Completed
+1051,C001,6/2/2024,240,Debit,Groceries,Online,Completed
+1052,C002,6/4/2024,900,Credit,Salary,Direct Deposit,Completed
+1053,C003,6/6/2024,70,Debit,Dining,Card Swipe,Completed
+1054,C004,6/8/2024,1500,Debit,Rent,ACH,Completed
+1055,C005,6/10/2024,700,Debit,Shopping,Online,Completed
+1056,C001,6/12/2024,260,Debit,Fuel,Card Swipe,Completed
+1057,C003,6/14/2024,200,Credit,Refund,Online,Completed
+1058,C002,6/16/2024,550,Debit,Utilities,Online,Completed
+1059,C004,6/18/2024,95,Debit,Dining,Online,Completed
+1060,C005,6/20/2024,800,Debit,Groceries,Online,Completed
